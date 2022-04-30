@@ -5,8 +5,8 @@ Launch the terminal.
 # Subsampling #
 1.Run the following commands in the terminal .
 
->> make subsampling
->> ./subsampling (VideoName) (FrameDrop(VideoName is name of file of which you want to find queue density and FrameDrop is the no of frame you want to skip)
+- make subsampling
+- ./subsampling (VideoName) (FrameDrop(VideoName is name of file of which you want to find queue density and FrameDrop is the no of frame you want to skip).
 2.You should get output in both terminal and outputsubsampling<FrameDrop>.txt.( you get two columns in which first was time and second is queue density.)
 
 3. your "outputsubsampling(framedrop).txt" file will be save in location "analysis/Subsampling"
