@@ -6,7 +6,7 @@
  make
  ./subtask1 (imageName)(imageName is name of file of which you want the Cropped Perpestive view.)
 4.If everything has gone will then you will be able to see the image in window.Now Choose the four points of the image you want to project and click in following way:
-	- TopLeft-->TopRight-->BottomRight-->BottomLeft.
+- TopLeft-->TopRight-->BottomRight-->BottomLeft.
 	- Press Space to see Project Image.
 	- Again Press Space to see Croped Project Image.
 	- Again Press Space to save Project Image and Croped Project Image.
