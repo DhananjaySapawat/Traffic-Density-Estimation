@@ -1,0 +1,31 @@
+baseline Completion Time :55
+
+outputsubsampling1 Completion Time :45
+outputsubsampling2 Completion Time :42
+outputsubsampling3 Completion Time :41
+outputsubsampling4 Completion Time :40
+outputsubsampling5 Completion Time :39
+outputsubsampling10 Completion Time :38
+outputsubsampling20 Completion Time :37
+
+outputtemporal1 Completion Time :53
+outputtemporal2 Completion Time :45
+outputtemporal3 Completion Time :42
+outputtemporal4 Completion Time :41
+outputtemporal5 Completion Time :40
+outputtemporal10 Completion Time :38
+outputtemporal20 Completion Time :37
+
+outputspatial1 Completion Time :56
+outputspatial2 Completion Time :54
+outputspatial3 Completion Time :53
+outputspatial4 Completion Time :52
+outputspatial5 Completion Time :53
+
+outputresolution1 Completion Time :55
+outputresolution2 Completion Time :48
+outputresolution3 Completion Time :47
+outputresolution4 Completion Time :46
+outputresolution5 Completion Time :45
+outputresolution10 Completion Time :43
+outputresolution20 Completion Time :41

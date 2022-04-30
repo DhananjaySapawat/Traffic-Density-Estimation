@@ -1,0 +1,29 @@
+outputsubsampling1.txt Error:0.664757
+outputsubsampling2.txt Error:1.10428
+outputsubsampling3.txt Error:1.9034
+outputsubsampling4.txt Error:2.53531
+outputsubsampling5.txt Error:2.94398
+outputsubsampling10.txt Error:6.30294
+outputsubsampling20.txt Error:12.9652
+
+outputtemporal1.txt Error:0
+outputtemporal2.txt Error:0
+outputtemporal3.txt Error:0
+outputtemporal4.txt Error:0
+outputtemporal5.txt Error:0
+outputtemporal10.txt Error:0
+outputtemporal20.txt Error:0
+
+outputspatial1.txt Error:0
+outputspatial2.txt Error:0
+outputspatial3.txt Error:0.110326
+outputspatial4.txt Error:0.238953
+outputspatial5.txt Error:0.407241
+
+outputresolution1.txt Error:1.377
+outputresolution2.txt Error:2.84394
+outputresolution3.txt Error:3.10473
+outputresolution4.txt Error:4.59764
+outputresolution5.txt Error:4.93068
+outputresolution10.txt Error:10.4044
+outputresolution20.txt Error:12.5174
