@@ -13,13 +13,13 @@ Launch the terminal.
 
 4.the runtime will save in time.txt file
 
-5.To get percentage error run the following commands in the terminal.
+5. To get percentage error run the following commands in the terminal.
 
->> make densityerror 
->> ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt)
+- make densityerror 
+- ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt)
 
 6.To plot the graph run the following commands in the terminal.
->>python3 graph.py "outputsubsampling(framedrop).txt"(your graph will be saved in location "analysis/Subsampling")
+- python3 graph.py "outputsubsampling(framedrop).txt"(your graph will be saved in location "analysis/Subsampling")
 
 7.If you want to compare all outputsubsamling file run the following commands in the terminal of location "analysis/Subsampling"
 8.you can run make error and make time command in  the terminal of location "analysis/Subsampling" to plot graph of (time vs parameter) and (error vs parameter)
