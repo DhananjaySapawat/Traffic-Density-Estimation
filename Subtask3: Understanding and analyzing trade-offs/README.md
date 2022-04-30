@@ -4,8 +4,8 @@ Launch the terminal.
 
 # Subsampling #
 1. Run the following commands in the terminal .
-- make subsampling
-- ./subsampling (VideoName) (FrameDrop(VideoName is name of file of which you want to find queue density and FrameDrop is the no of frame you want to skip).
+  - make subsampling
+  - ./subsampling (VideoName) (FrameDrop(VideoName is name of file of which you want to find queue density and FrameDrop is the no of frame you want to skip).
 2. You should get output in both terminal and outputsubsampling<FrameDrop>.txt.( you get two columns in which first was time and second is queue density.)
 
 3. your "outputsubsampling(framedrop).txt" file will be save in location "analysis/Subsampling"
@@ -14,11 +14,11 @@ Launch the terminal.
 
 5. To get percentage error run the following commands in the terminal.
 
-- make densityerror 
-- ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt)
+  - make densityerror 
+  - ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt)
 
 6. To plot the graph run the following commands in the terminal.
-- python3 graph.py "outputsubsampling(framedrop).txt"(your graph will be saved in location "analysis/Subsampling")
+  - python3 graph.py "outputsubsampling(framedrop).txt"(your graph will be saved in location "analysis/Subsampling")
 
 7. If you want to compare all outputsubsamling file run the following commands in the terminal of location "analysis/Subsampling"
 8.you can run make error and make time command in  the terminal of location "analysis/Subsampling" to plot graph of (time vs parameter) and (error vs parameter)
