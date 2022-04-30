@@ -9,11 +9,8 @@ Launch the terminal.
 2. You should get output in both terminal and outputsubsampling<FrameDrop>.txt.( you get two columns in which first was time and second is queue density.)
 
 3. your "outputsubsampling(framedrop).txt" file will be save in location "analysis/Subsampling"
-
 4. the runtime will save in time.txt file
-
 5. To get percentage error run the following commands in the terminal.
-
        - make densityerror.
        - ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt).
 
