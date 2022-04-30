@@ -82,6 +82,6 @@ Launch the terminal.
       - make densityerror 
       - ./densityerror "outputtemporal(PthreadNo).txt."(your error will be save in error.txt)
 
-6.you can run make error and make time command in the terminal of location "analysis/Temporal" to plot the graph of (time vs parameter) and (error vs parameter).
+6. you can run make error and make time command in the terminal of location "analysis/Temporal" to plot the graph of (time vs parameter) and (error vs parameter).
 
-7.(PthreadNo).png represent the cpu usuage at the time of creating "outputtemporal(PthreadNo).txt."
+7. (PthreadNo).png represent the cpu usuage at the time of creating "outputtemporal(PthreadNo).txt."
