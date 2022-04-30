@@ -38,7 +38,7 @@ Launch the terminal.
       - ./densityerror "outputresolution(Factor).txt"(your error will be save in error.txt)
 
 6. To plot the graph run the following commands in the terminal.
-      -python3 graph.py "outputresolution(Factor).txt"(your graph will be saved in location "analysis/Resolution")
+      - python3 graph.py "outputresolution(Factor).txt"(your graph will be saved in location "analysis/Resolution")
 
 7. If you want to compare all outputresolution file run the following commands in the terminal of location "analysis/Subsampling"
 
