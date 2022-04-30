@@ -30,7 +30,7 @@ Launch the terminal.
 
 3. your "outputresolution(Factor).txt" file will be save in location "analysis/Resolution".
 
-4.the runtime will save in time.txt file.
+4. the runtime will save in time.txt file.
 
 5.To get percentage error run the following commands in the terminal.
 
