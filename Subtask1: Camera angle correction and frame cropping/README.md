@@ -15,5 +15,5 @@
 ## Description of the code:
 The Code will take an image and four point in image from the user and return the images transform view and cropped transform view.
 ## References:
-- Tutorial 1(https://docs.opencv.org/master/d9/dab/tutorial_homography.html)
-- Tutorial 1(https://learnopencv.com/homography-examples-using-opencv-python-c/)
+- Tutorial 1 (https://docs.opencv.org/master/d9/dab/tutorial_homography.html)
+- Tutorial 2 (https://learnopencv.com/homography-examples-using-opencv-python-c/)
