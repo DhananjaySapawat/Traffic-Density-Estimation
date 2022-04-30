@@ -32,7 +32,7 @@ Launch the terminal.
 
 4. the runtime will save in time.txt file.
 
-5.To get percentage error run the following commands in the terminal.
+5. To get percentage error run the following commands in the terminal.
 
       - make densityerror 
       - ./densityerror "outputresolution(Factor).txt"(your error will be save in error.txt)
