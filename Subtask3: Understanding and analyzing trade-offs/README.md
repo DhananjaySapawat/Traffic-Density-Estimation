@@ -23,26 +23,26 @@ Launch the terminal.
 # Reduce Resolution #
 1. Run the following commands in the terminal .
 
->> make resolution
->> ./subsampling (VideoName) (Factor)(VideoName is name of file of which you want to find queue density and Factor is the no by which you want to reduce resolution of video)
+      - make resolution
+      - ./subsampling (VideoName) (Factor)(VideoName is name of file of which you want to find queue density and Factor is the no by which you want to            reduce resolution of video)
 
 2. You should get output in both terminal and outputresolution(Factor).txt.( you get two columns in which first was time and second is queue density.)
 
-3. your "outputresolution(Factor).txt" file will be save in location "analysis/Resolution"
+3. your "outputresolution(Factor).txt" file will be save in location "analysis/Resolution".
 
-4.the runtime will save in time.txt file
+4.the runtime will save in time.txt file.
 
 5.To get percentage error run the following commands in the terminal.
 
->> make densityerror 
->> ./densityerror "outputresolution(Factor).txt"(your error will be save in error.txt)
+      - make densityerror 
+      - ./densityerror "outputresolution(Factor).txt"(your error will be save in error.txt)
 
-6.To plot the graph run the following commands in the terminal.
->>python3 graph.py "outputresolution(Factor).txt"(your graph will be saved in location "analysis/Resolution")
+6. To plot the graph run the following commands in the terminal.
+      -python3 graph.py "outputresolution(Factor).txt"(your graph will be saved in location "analysis/Resolution")
 
-7.If you want to compare all outputresolution file run the following commands in the terminal of location "analysis/Subsampling"
+7. If you want to compare all outputresolution file run the following commands in the terminal of location "analysis/Subsampling"
 
-8.you can run make error and make time command in the terminal of location "analysis/Resolution" to plot the graph of (time vs parameter) and (error vs parameter).
+8. you can run make error and make time command in the terminal of location "analysis/Resolution" to plot the graph of (time vs parameter) and (error vs parameter).
 
 # Spatial Threading #
 1.Run the following commands in the terminal .
