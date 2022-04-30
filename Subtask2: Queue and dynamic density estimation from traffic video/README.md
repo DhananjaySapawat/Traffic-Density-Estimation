@@ -10,7 +10,7 @@
 4. You should get output in both terminal and out.txt.( you get three columns in which first was time,second was queue density and third was dynamic density)
 
 5. Run the following commands in the terminal to plot the graph of densities.
-   >> make dqgraph.
+   - make dqgraph.
 
 ## Description of the code:
    The code will take such a video as input and output the queue density (blue line in the graph below) and dynamic density (orange line) for the video frames. 
