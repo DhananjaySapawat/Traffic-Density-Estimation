@@ -5,7 +5,7 @@ Launch the terminal.
 # Subsampling #
 1. Run the following commands in the terminal .
       - make subsampling
-      - ./subsampling (VideoName) (FrameDrop(VideoName is name of file of which you want to find queue density and FrameDrop is the no of frame you want to skip).
+      - ./subsampling (VideoName) (FrameDrop) (VideoName is name of file of which you want to find queue density and FrameDrop is the no of frame you want to skip).
 2. You should get output in both terminal and outputsubsampling<FrameDrop>.txt.( you get two columns in which first was time and second is queue density.)
 
 3. your "outputsubsampling(framedrop).txt" file will be save in location "analysis/Subsampling"
@@ -24,7 +24,7 @@ Launch the terminal.
 1. Run the following commands in the terminal .
 
       - make resolution
-      - ./subsampling (VideoName) (Factor)(VideoName is name of file of which you want to find queue density and Factor is the no by which you want to            reduce resolution of video)
+      - ./subsampling (VideoName) (Factor) (VideoName is name of file of which you want to find queue density and Factor is the no by which you want to            reduce resolution of video)
 
 2. You should get output in both terminal and outputresolution(Factor).txt.( you get two columns in which first was time and second is queue density.)
 
@@ -48,7 +48,7 @@ Launch the terminal.
 1. Run the following commands in the terminal .
 
       - make spatial
-      - ./spatial (VideoName) (PthreadNo)(VideoName is name of file of which you want to find queue density and PthreadNo is the no of thread you want to make)
+      - ./spatial (VideoName) (PthreadNo) (VideoName is name of file of which you want to find queue density and PthreadNo is the no of thread you want to make)
 
 2. You should get output in both terminal and outputspatial(PthreadNo).txt( you get two columns in which first was time and second is queue density.)
 
@@ -69,7 +69,7 @@ Launch the terminal.
 1. Run the following commands in the terminal .
 
       - make temporal
-      - ./temporal (VideoName) (PthreadNo)(VideoName is name of file of which you want to find queue density and PthreadNo is the no of thread you want           to make)
+      - ./temporal (VideoName) (PthreadNo) (VideoName is name of file of which you want to find queue density and PthreadNo is the no of thread you want           to make)
 
 2. You should get output in both terminal and outputtemporal(PthreadNo).txt( you get two columns in which first was time and second is queue density.)
 
