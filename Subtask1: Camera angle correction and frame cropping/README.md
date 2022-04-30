@@ -11,9 +11,9 @@
       >> Again Press Space to see Croped Project Image.
       >> Again Press Space to save Project Image and Croped Project Image.
 ## Goal for Code:
-	OpenCV algorithms work best on rectangular frames. But when a camera is deployed on a real road, it is very hard to position the camera so that the road to be monitored is a perfect rectangle, and the camera gets a top view of that rectangle. Typically the road to be monitored is at an arbitrary angle to the camera, and many additional objects are part of the frame. For useful tasks like traffic density estimation on a particular road stretch, it is therefore important to first correct the camera angle in software, and crop the image to remove the additional objects. This is the goal of the first assignment Subtask1.
+>> OpenCV algorithms work best on rectangular frames. But when a camera is deployed on a real road, it is very hard to position the camera so that the road to be monitored is a perfect rectangle, and the camera gets a top view of that rectangle. Typically the road to be monitored is at an arbitrary angle to the camera, and many additional objects are part of the frame. For useful tasks like traffic density estimation on a particular road stretch, it is therefore important to first correct the camera angle in software, and crop the image to remove the additional objects. This is the goal of the first assignment Subtask1.
 ## Description of the code:
-	The Code will take an image and four point in image from the user and return the images transform view and cropped transform view.
+>> The Code will take an image and four point in image from the user and return the images transform view and cropped transform view.
 ## References:
 	https://docs.opencv.org/master/d9/dab/tutorial_homography.html
 	https://learnopencv.com/homography-examples-using-opencv-python-c/
