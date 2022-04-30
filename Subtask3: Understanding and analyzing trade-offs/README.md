@@ -11,8 +11,8 @@ Launch the terminal.
 3. your "outputsubsampling(framedrop).txt" file will be save in location "analysis/Subsampling"
 4. the runtime will save in time.txt file
 5. To get percentage error run the following commands in the terminal.
-       - make densityerror.
-       - ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt).
+     - make densityerror.
+     - ./densityerror "outputsubsampling(framedrop).txt"(your error will be save in error.txt).
 
 6. To plot the graph run the following commands in the terminal.
         - python3 graph.py "outputsubsampling(framedrop).txt"(your graph will be saved in location "analysis/Subsampling")
