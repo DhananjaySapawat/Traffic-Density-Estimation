@@ -1,11 +1,11 @@
 # Camera Angle Correction and Frame Cropping
 ## How to Run the Code:
-1 Launch the terminal and give the command make run.
-2 Put the image for which you want the transform and cropped view (Some sample images are present).
-3 Run the following commands in the terminal from the directory of the project folder.
+1. Launch the terminal and give the command make run.
+2. Put the image for which you want the transform and cropped view (Some sample images are present).
+3. Run the following commands in the terminal from the directory of the project folder.
  make
  ./subtask1 (imageName)(imageName is name of file of which you want the Cropped Perpestive view.).
-4.If everything has gone will then you will be able to see the image in window.Now Choose the four points of the image you want to project and click in following way:
+4. If everything has gone will then you will be able to see the image in window.Now Choose the four points of the image you want to project and click in following way:
 - TopLeft-->TopRight-->BottomRight-->BottomLeft.
 - Press Space to see Project Image.
 - Again Press Space to see Croped Project Image.
